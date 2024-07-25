@@ -61,11 +61,4 @@ The key findings from the analysis include:
 
 ## Conclusion
 
-The analysis provides valuable insights into the factors influencing hotel booking cancellations. These insights can help hotel management in devising strategies to reduce cancellations, such as implementing stricter cancellation policies for bookings with longer lead times or offering incentives to repeat guests.
-
-
-## Usage
-
-1. **Open the Excel file**: Open `Hotel_Bookings_Cancellations.xlsx` in Excel.
-2. **Explore the data**: Review the different sheets and charts to understand the analysis.
-3. **Modify or extend the analysis**: Add additional analysis or charts as needed.
+Comparing the three images of hotel booking cancellations, we see a consistent pattern in the data for 2015, 2016, and 2017. The pie charts show that City Hotels consistently have more bookings than Resort Hotels. The bar graphs indicate that couples have the highest number of both total guests and cancellations compared to families and singles. Additionally, the desired room status has a significantly higher count and cancellations compared to the undesired room status. Seasonal trends show higher bookings and cancellations during peak travel months, particularly in July, August, and September.
